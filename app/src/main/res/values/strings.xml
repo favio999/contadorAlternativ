@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">contadorAlternativ</string>
+    <string name="edt1">Ingrese su Nombre</string>
+    <string name="tv1"></string>
+    <string name="button">Imprime</string>
+    <string name="tv2">Desarrollado por: Usuario</string>
+</resources>
